@@ -1,8 +1,6 @@
 # Mod Shell
 
-This repository contains necessary resources of the mod that comes with Serious Sam Classics Patch for properly running it.
-
-It's a shell for compiled library modules that are built from [`SamClassicsPatch/Mod`](https://github.com/SamClassicPatch/Mod).
+This repository contains necessary resources of the mod that comes with Serious Sam Classics Patch in order to allow starting it from the "Mods" menu of the vanilla game.
 
 Visit [Serious Sam Classics Patch](https://github.com/SamClassicPatch) organization for more information.
 
